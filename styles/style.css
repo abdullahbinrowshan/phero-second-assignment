@@ -207,6 +207,8 @@ footer{
 /* ---------------------------------- *\
         responsive styles start
 \* ---------------------------------- */
+
+/* -----------mobile device---------- */
 @media only screen and (max-width: 767px){
     header{
         width: 100%;
@@ -223,7 +225,9 @@ footer{
         width: 100%;
         margin: 0 auto;
     }
-    
+    .preebook-styled{
+        margin: 0 auto;
+    }
     .popular-collection{
         width: auto;
         height: auto;
@@ -238,7 +242,7 @@ footer{
         width: 100%;
     }
     .product-image img{
-        width: 125%;
+        width: 100%;
     }
     .see-more{
         text-align: center;
