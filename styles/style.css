@@ -288,7 +288,7 @@ footer{
         flex-direction: column;
     }
     .main-camera img{
-        width: 100%;
+        width: 95%;
         margin: 0 auto;
     }
     .preebook-styled{
@@ -318,7 +318,7 @@ footer{
         font-size: 25px;
     }
     .input-email input{
-        padding-right: 30px;
+        padding-right: 10px;
     }
 }
 @media only screen and (min-width: 400px) and (max-width: 4350px) {
